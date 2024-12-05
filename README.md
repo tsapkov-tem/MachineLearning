@@ -1,0 +1,20 @@
+- Лабораторная 1
+  - [x] data: mushroom_dataset.csv
+  - [x] notebook: mushrooms.ipynb
+- Лабораторная 2
+  - [x] Titanic.zip
+- Лабораторная 3
+  - [x] data: heart_disease_dataset.csv
+  - [x] notebook: heart_disease.ipynb
+- Лабораторная 4
+  - [x] data: boston.csv
+  - [x] notebook: Linear_Regression.ipynb
+- Лабораторная 5
+  - [x] data: Churn.csv
+  - [x] notebook: Churn_analysis.ipynb
+- Лабораторная 6
+  - [x] data: CC GENERAL.csv
+  - [x] notebook: General_analysis.ipynb
+- Лабораторная 7
+  - [x] data: users_behavior.csv
+  - [x] notebook: behavior_analysis.ipynb
